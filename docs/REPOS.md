@@ -70,14 +70,6 @@ Networks research program.
     Two-pass exact BP vs iterative. DAG asymmetry experiments.
     github.com/gregorycoppola/pearl (python/ subdirectory)
 
-## The Website
-
-    bayespage
-    Interactive explainer at transformersarebayesnets.com.
-    Built with SolidJS. Covers boolean structure, scaling,
-    attention, FFN, proofs, experiments.
-    github.com/gregorycoppola/bayespage
-
 ## Earlier Work
 
     world (this repo)
